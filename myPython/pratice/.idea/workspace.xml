@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d3b978c-9770-4449-8f5e-c1dc3a0a5170" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pratice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MicroPythonDevices" autoDetectDevicePath="false" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2mE8x74jP2cqLPMDzAfRMK5KApi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for task.test_email.TestEmail.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for task.test_email.TestEmail.test_email.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for task.test_email.TestEmail.test_email_validation.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for task.test_email.TestEmail.test_invalid_email.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for task.test_generator.TestGenerator.test_generator.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for task.test_password_generator.TestPassword.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for task.test_password_generator.TestPassword.test_Only_Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for task.test_password_generator.TestPassword.test_Only_for_white_space.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for task.test_password_generator.TestPassword.test_Only_lower_Case.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for task.test_password_generator.TestPassword.test_Only_special_chars.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for task.test_password_generator.TestPassword.test_Only_upper_Case.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for task.test_password_generator.TestPassword.test_chossen_length.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for task.test_password_generator.TestPassword.test_combined_password.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for task.test_password_generator.TestPassword.test_custom_length.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for task.test_password_generator.TestPassword.test_default_length.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_generator.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pratice.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL/Desktop/myPython/pratice/test/task/test_password_generator.py&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.micropython.configurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python tests.Python tests for task.test_password_generator.TestPassword">
+    <configuration name="Flash password_generator.py" type="MicroPythonConfigurationType" factoryName="MicroPython" editBeforeRun="true" focusToolWindowBeforeRun="true" nameIsGenerated="true" path="$PROJECT_DIR$/task/password_generator.py" runReplOnSuccess="no">
+      <module name="pratice" />
+      <method v="2">
+        <option name="RunConfigurationTask" enabled="true" run_configuration_name="Python tests for task.test_password_generator.TestPassword" run_configuration_type="tests" />
+        <option name="RunConfigurationTask" enabled="true" run_configuration_name="Python tests for task.test_password_generator.TestPassword" run_configuration_type="tests" />
+      </method>
+    </configuration>
+    <configuration name="Flash test_password_generator.py" type="MicroPythonConfigurationType" factoryName="MicroPython" nameIsGenerated="true" path="$PROJECT_DIR$/test/task/test_password_generator.py" runReplOnSuccess="no">
+      <module name="pratice" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for task.test_password_generator.TestPassword" type="tests" factoryName="Autodetect" nameIsGenerated="true">
+      <module name="pratice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;task.test_password_generator.TestPassword&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for task.test_password_generator.TestPassword.test_Only_for_white_space" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pratice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;task.test_password_generator.TestPassword.test_Only_for_white_space&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for task.test_password_generator.TestPassword.test_Only_special_chars" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pratice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;task.test_password_generator.TestPassword.test_Only_special_chars&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for task.test_password_generator.TestPassword.test_combined_password" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pratice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;task.test_password_generator.TestPassword.test_combined_password&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for task.test_password_generator.TestPassword.test_custom_length" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pratice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;task.test_password_generator.TestPassword.test_custom_length&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for task.test_password_generator.TestPassword.test_custom_length" />
+        <item itemvalue="MicroPython.Flash test_password_generator.py" />
+        <item itemvalue="Python tests.Python tests for task.test_password_generator.TestPassword.test_Only_special_chars" />
+        <item itemvalue="Python tests.Python tests for task.test_password_generator.TestPassword.test_combined_password" />
+        <item itemvalue="Python tests.Python tests for task.test_password_generator.TestPassword.test_Only_for_white_space" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-PY-242.20224.347" />
+        <option value="bundled-python-sdk-c2d6afa66fbe-39cff9de6eef-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.20224.347" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d3b978c-9770-4449-8f5e-c1dc3a0a5170" name="Changes" comment="" />
+      <created>1726630619195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726630619195</updated>
+      <workItem from="1726630634912" duration="10000" />
+      <workItem from="1726631275313" duration="5000" />
+      <workItem from="1726631297566" duration="5185000" />
+      <workItem from="1726647657169" duration="1561000" />
+      <workItem from="1726673267381" duration="2643000" />
+      <workItem from="1726711632105" duration="3870000" />
+      <workItem from="1726715594852" duration="2942000" />
+      <workItem from="1726737408183" duration="2324000" />
+      <workItem from="1726799324732" duration="7144000" />
+      <workItem from="1726818028179" duration="1646000" />
+      <workItem from="1726837293474" duration="486000" />
+      <workItem from="1727066443199" duration="555000" />
+      <workItem from="1727078464341" duration="1534000" />
+      <workItem from="1727096594147" duration="1271000" />
+      <workItem from="1727151872841" duration="1689000" />
+      <workItem from="1727322451514" duration="1019000" />
+      <workItem from="1727932152351" duration="246000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/task/test_email.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/task/test_password_generator.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/task/test_password_generator.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/task/test_password_generator.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pratice$pratice.coverage" NAME="pratice Coverage Results" MODIFIED="1726740869984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/pratice$.coverage" NAME=" Coverage Results" MODIFIED="1727932249702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+  </component>
+</project>
